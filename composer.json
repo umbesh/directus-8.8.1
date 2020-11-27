@@ -5,19 +5,19 @@
   "repositories": [
     {
       "type": "path",
-      "url": "../packages/zend-db"
+      "url": "./packages/zend-db"
     },
     {
       "type": "path",
-      "url": "../packages/oauth2-okta"
+      "url": "./packages/oauth2-okta"
     },
     {
       "type": "path",
-      "url": "../packages/proxy-detection"
+      "url": "./packages/proxy-detection"
     },
     {
       "type": "path",
-      "url": "../packages/rate-limit"
+      "url": "./packages/rate-limit"
     }
   ],
   "require": {
